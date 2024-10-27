@@ -1,7 +1,7 @@
 
 # 当前文件已维护了 如下信息
 
-## plugins 文件中的:
+## source_RuCu6-main 里 plugins 文件中的:
 
 > weibo.plugin
 
