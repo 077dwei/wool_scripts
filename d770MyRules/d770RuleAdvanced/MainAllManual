@@ -6,7 +6,7 @@ https://kelee.one/Tool/Loon/Plugin/Spotify_remove_ads.plugin, enabled=true
 https://kelee.one/Tool/Loon/Plugin/Spotify_lyrics_translation.plugin, enabled=true
 https://kelee.one/Tool/Loon/Plugin/Google.plugin, enabled=false
 https://kelee.one/Tool/Loon/Plugin/BlockAdvertisers.plugin, enabled=true
-https://kelee.one/Tool/Loon/Plugin/TikTok_redirect.plugin, policy=美国时延优选, enabled=true
+https://kelee.one/Tool/Loon/Plugin/TikTok_redirect.plugin, policy=美国自动策略, enabled=true
 https://kelee.one/Tool/Loon/Plugin/FC_Box_remove_ads.plugin, enabled=false
 https://kelee.one/Tool/Loon/Plugin/KGRing_remove_ads.plugin, enabled=false
 https://kelee.one/Tool/Loon/Plugin/SodaMusic_remove_ads.plugin, enabled=false
