@@ -57,7 +57,7 @@
 # 兜底策略后备
 兜底后备策略 = fallback,香港自动场景,台湾自动场景,日本自动场景,韩国自动场景,新国自动场景,美国自动场景,interval = 60,max-timeout = 2000,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/fallback.png
 # -------  Myself Add  ----------
-AFEmby香港优选指定节点 = load-balance,香港AFEmby,interval = 60,algorithm = pcc
+AFEmby香港优选指定节点 = url-test,香港AFEmby,interval = 60,algorithm = pcc
 OKX自动策略 = select,香港自动策略,香港时延优选,香港故障转移,香港负载均衡,台湾自动策略,台湾时延优选,台湾故障转移,台湾负载均衡
 
 
