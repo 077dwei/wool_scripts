@@ -1,6 +1,8 @@
 #main Manual
 # ------------------------------------------------  Plugin  --------------------------------------------
 [Plugin]
+https://kelee.one/Tool/Loon/Plugin/1.1.1.1.plugin, enabled=true
+https://kelee.one/Tool/Loon/Plugin/WARP_Node_Query.plugin, enabled=true
 https://raw.githubusercontent.com/fmz200/wool_scripts/main/Loon/plugin/weibo.plugin, enabled=true
 https://kelee.one/Tool/Loon/Plugin/Spotify_remove_ads.plugin, enabled=true
 https://kelee.one/Tool/Loon/Plugin/Spotify_lyrics_translation.plugin, enabled=true
@@ -42,7 +44,7 @@ https://kelee.one/Tool/Loon/Plugin/iQiYi_Video_remove_ads.plugin, enabled=true
 https://kelee.one/Tool/Loon/Plugin/AliYunDrive_remove_ads.plugin, enabled=true
 https://kelee.one/Tool/Loon/Plugin/WexinMiniPrograms_Remove_ads.plugin, enabled=true
 https://kelee.one/Tool/Loon/Plugin/Amap_remove_ads.plugin, enabled=true
-https://kelee.one/Tool/Loon/Plugin/TubeMax_remove_ads.plugin, enabled=false
+https://kelee.one/Tool/Loon/Plugin/TubeMax_remove_ads.plugin, policy=兜底后备策略, enabled=true
 https://kelee.one/Tool/Loon/Plugin/BaiduNetDisk_remove_ads.plugin, enabled=true
 https://kelee.one/Tool/Loon/Plugin/BaiduSearchWebpage_remove_ads.plugin, enabled=true
 https://kelee.one/Tool/Loon/Plugin/Daily_remove_ads.plugin, enabled=true
@@ -58,16 +60,16 @@ https://kelee.one/Tool/Loon/Plugin/Weibo_remove_ads.plugin, enabled=false
 https://kelee.one/Tool/Loon/Plugin/YouTube_remove_ads.plugin, enabled=true
 https://kelee.one/Tool/Loon/Plugin/Tieba_remove_ads.plugin, enabled=true
 https://kelee.one/Tool/Loon/Plugin/Cainiao_remove_ads.plugin, enabled=true
-https://kelee.one/Tool/Loon/Plugin/LoonGallery.plugin, policy=兜底切换, enabled=true
+https://kelee.one/Tool/Loon/Plugin/LoonGallery.plugin, policy=兜底后备策略, enabled=true
 https://kelee.one/Tool/Loon/Plugin/Block_HTTPDNS.plugin, enabled=true
 https://kelee.one/Tool/Loon/Plugin/Remove_ads_by_keli.plugin, enabled=true
 https://kelee.one/Tool/Loon/Plugin/QuickSearch.plugin, enabled=true
-https://kelee.one/Tool/Loon/Plugin/Prevent_DNS_Leaks.plugin, policy=兜底切换, enabled=true
+https://kelee.one/Tool/Loon/Plugin/Prevent_DNS_Leaks.plugin, policy=兜底后备策略, enabled=true
 https://kelee.one/Tool/Loon/Plugin/Node_detection_tool.plugin, enabled=true
 https://kelee.one/Tool/Loon/Plugin/TestFlightRegionUnlock.plugin, policy=DIRECT, enabled=true
-https://kelee.one/Tool/Loon/Plugin/BoxJs.plugin, policy=兜底切换, enabled=true
-https://kelee.one/Tool/Loon/Plugin/Sub-Store.plugin, policy=兜底切换, enabled=true
-https://kelee.one/Tool/Loon/Plugin/Script-Hub.plugin, policy=兜底切换, enabled=true
+https://kelee.one/Tool/Loon/Plugin/BoxJs.plugin, policy=兜底后备策略, enabled=true
+https://kelee.one/Tool/Loon/Plugin/Sub-Store.plugin, policy=兜底后备策略, tag=Sub-Store, enabled=true
+https://kelee.one/Tool/Loon/Plugin/Script-Hub.plugin, policy=兜底后备策略, enabled=true
 
 
 # -------------------------------------------  Remote Rule  -----------------------------------------------
