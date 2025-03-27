@@ -74,18 +74,18 @@ https://kelee.one/Tool/Loon/Plugin/Script-Hub.plugin, policy=兜底后备策略,
 
 # -------------------------------------------  Remote Rule  -----------------------------------------------
 [Remote Rule]
-# ----------  Myself Add  -------------
-https://github.com/077dwei/wool_scripts/raw/main/d770MyRules/d770RuleAdvanced/Sum,list, policy=兜底后备策略, tag=Sum, enabled=true
+# Myself Add
+https://github.com/077dwei/wool_scripts/raw/main/d770MyRules/d770RuleAdvanced/Sum.list, policy=兜底后备策略, tag=Sum, enabled=true
 https://github.com/077dwei/wool_scripts/raw/main/d770MyRules/d770RuleAdvanced/AFEmby.list, policy=AFEmby香港优选指定节点, tag=AFEmby, enabled=true
-https://github.com/077dwei/wool_scripts/raw/main/d770MyRules/d770RuleAdvanced/Coinbase.list, policy=美国自动策略, tag=coinbase, enabled=true
-https://github.com/077dwei/wool_scripts/raw/main/d770MyRules/d770RuleAdvanced/Trust.list, policy=美国自动策略, tag=Trust, enabled=true
-https://github.com/077dwei/wool_scripts/raw/main/d770MyRules/d770RuleAdvanced/Bybit.list, policy=台湾自动策略, tag=Bybit, enabled=true
-https://github.com/077dwei/wool_scripts/raw/main/d770MyRules/d770RuleAdvanced/Binance.list, policy=台湾自动策略, tag=Binance, enabled=true
-https://github.com/077dwei/wool_scripts/raw/main/d770MyRules/d770RuleAdvanced/Paypal.list, policy=美国自动策略, tag=Paypal, enabled=true
+https://github.com/077dwei/wool_scripts/raw/main/d770MyRules/d770RuleAdvanced/Coinbase.list, policy=美国自动场景, tag=coinbase, enabled=true
+https://github.com/077dwei/wool_scripts/raw/main/d770MyRules/d770RuleAdvanced/Trust.list, policy=美国自动场景, tag=Trust, enabled=true
+https://github.com/077dwei/wool_scripts/raw/main/d770MyRules/d770RuleAdvanced/Bybit.list, policy=台湾自动场景, tag=Bybit, enabled=true
+https://github.com/077dwei/wool_scripts/raw/main/d770MyRules/d770RuleAdvanced/Binance.list, policy=台湾自动场景, tag=Binance, enabled=true
+https://github.com/077dwei/wool_scripts/raw/main/d770MyRules/d770RuleAdvanced/Paypal.list, policy=美国自动场景, tag=Paypal, enabled=true
 https://github.com/077dwei/wool_scripts/raw/main/d770MyRules/d770RuleAdvanced/Chaoxing.list, policy=REJECT, tag=Chaoxing, enabled=true
-https://github.com/077dwei/wool_scripts/raw/main/d770MyRules/d770RuleAdvanced/OKX.list, policy=OKX自动策略, tag=OKX, enabled=true
+https://github.com/077dwei/wool_scripts/raw/main/d770MyRules/d770RuleAdvanced/OKX.list, policy=OKX手动场景, tag=OKX, enabled=true
 
-# ------------  end  -------------
+#-------------------------
 https://rule.kelee.one/Loon/Telegram.list, policy=兜底后备策略, tag=Telegram, enabled=true
 https://kelee.one/Tool/Loon/Rule/TikTok.list, policy=美国自动场景, tag=TikTok, enabled=true
 https://kelee.one/Tool/Loon/Rule/AI.list, policy=美国自动场景, tag=AI, enabled=true
@@ -107,6 +107,14 @@ https://kelee.one/Tool/Loon/Rule/REGION_SPLITTER, policy=DIRECT, tag=CN REGION, 
 
 # -----------------------------------------------------  Rule  --------------------------------------------------------
 [Rule]
+
+#wise
+DOMAIN-KEYWORD,wise.com,DIRECT
+#mesl rule
+DOMAIN,api.911tg3rs.com,DIRECT
+
+# imm rule
+DOMAIN,api.immtel.co,DIRECT
 #bocHKRule
 DOMAIN-KEYWORD,bochk.com,DIRECT
 DOMAIN-KEYWORD,alipay.com,DIRECT
