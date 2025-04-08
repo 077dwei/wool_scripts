@@ -1,3 +1,21 @@
-DOMAIN-KEYWORD,binance.info
-DOMAIN,log.bntrace.com
-DOMAIN-KEYWORD,binance.com
+DOMAIN-KEYWORD,binance.info,台湾自动场景
+
+DOMAIN-SUFFIX,binance.com,台湾自动场景
+DOMAIN-SUFFIX,binance.net,台湾自动场景
+DOMAIN-SUFFIX,binanceapi.com,台湾自动场景
+DOMAIN-SUFFIX,binance.cloud,台湾自动场景
+DOMAIN-SUFFIX,binance.vision,台湾自动场景
+DOMAIN-SUFFIX,nbstream.binance.com,台湾自动场景
+DOMAIN-SUFFIX,binstatic.com,台湾自动场景
+DOMAIN-SUFFIX,bnbstatic.com,台湾自动场景
+DOMAIN-SUFFIX,bntrace.com,台湾自动场景
+DOMAIN-SUFFIX,bnbchain.org,台湾自动场景
+
+# App 行为统计和启动跟踪
+DOMAIN-SUFFIX,appsflyersdk.com,台湾自动场景
+DOMAIN-SUFFIX,adjust.com,台湾自动场景
+
+# Google 日志服务，用于 Firebase 和分析
+DOMAIN-SUFFIX,googleapis.com,台湾自动场景
+DOMAIN-SUFFIX,gstatic.com,台湾自动场景
+DOMAIN-SUFFIX,firebaseio.com,台湾自动场景
