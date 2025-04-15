@@ -16,6 +16,6 @@ DOMAIN-SUFFIX,appsflyersdk.com,台湾自动场景
 DOMAIN-SUFFIX,adjust.com,台湾自动场景
 
 # Google 日志服务，用于 Firebase 和分析
-DOMAIN-SUFFIX,googleapis.com,台湾自动场景
-DOMAIN-SUFFIX,gstatic.com,台湾自动场景
-DOMAIN-SUFFIX,firebaseio.com,台湾自动场景
+#DOMAIN-SUFFIX,googleapis.com,台湾自动场景
+#DOMAIN-SUFFIX,gstatic.com,台湾自动场景
+#DOMAIN-SUFFIX,firebaseio.com,台湾自动场景
