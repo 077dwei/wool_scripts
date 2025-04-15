@@ -98,32 +98,31 @@
    DOMAIN-SUFFIX,huobi.br.com
    PROCESS-NAME,Huobi.exe
    DOMAIN-KEYWORD,huobi
-
-   > OKX
+  # > OKX
    DOMAIN-SUFFIX,okex.com
    DOMAIN-SUFFIX,okx.com
    PROCESS-NAME,OKX.exe
    DOMAIN-KEYWORD,okx
 
-   > asproex
+  # > asproex
    DOMAIN-SUFFIX,asproex.com
    DOMAIN-SUFFIX,asproexapi.com
      
-   > bitflyer
+  # > bitflyer
    DOMAIN-SUFFIX,bitflyer.com
    DOMAIN-SUFFIX,bitflyer.jp
      
-   > bitsquare
+  # > bitsquare
    DOMAIN-SUFFIX,bisq.io
    DOMAIN-SUFFIX,bisq.network
    DOMAIN-SUFFIX,bitsquare.io
      
-   > coinone
+  # > coinone
    DOMAIN-SUFFIX,coinone.co.kr
    DOMAIN-SUFFIX,coinonecore.com
    DOMAIN-SUFFIX,coinonecorp.com
      
-   > ethereum
+  # > ethereum
    DOMAIN-SUFFIX,devcon.org
    DOMAIN-SUFFIX,ethereum.foundation
    DOMAIN-SUFFIX,ethereum.org
@@ -143,17 +142,17 @@
    DOMAIN-SUFFIX,parity.io
    DOMAIN-SUFFIX,ethernodes.org
      
-   > localbitcoins
+  # > localbitcoins
    DOMAIN-SUFFIX,localbitcoins.com
    DOMAIN-SUFFIX,localbitcoinschain.com
 
-   > zb
+  # > zb
    DOMAIN-SUFFIX,zb.app
    DOMAIN-SUFFIX,zb.com
    DOMAIN-SUFFIX,zb.io
    DOMAIN-SUFFIX,zb.live
      
-   > Analysis
+  # > Analysis
    DOMAIN-SUFFIX,aicoin.com
    DOMAIN-SUFFIX,aimoon.com
    DOMAIN-SUFFIX,coingecko.com
