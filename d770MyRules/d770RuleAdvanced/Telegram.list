@@ -1,6 +1,6 @@
 # > d770Telegram
 # https://raw.githubusercontent.com/077dwei/wool_scripts/main/d770MyRules/d770RuleAdvanced/Telegram.list
-# > Telegram
+
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,tdesktop.com
