@@ -1,21 +1,21 @@
-DOMAIN-KEYWORD,binance.info,台湾自动场景
+DOMAIN-KEYWORD,binance.info
 
-DOMAIN-SUFFIX,binance.com,台湾自动场景
-DOMAIN-SUFFIX,binance.net,台湾自动场景
-DOMAIN-SUFFIX,binanceapi.com,台湾自动场景
-DOMAIN-SUFFIX,binance.cloud,台湾自动场景
-DOMAIN-SUFFIX,binance.vision,台湾自动场景
-DOMAIN-SUFFIX,nbstream.binance.com,台湾自动场景
-DOMAIN-SUFFIX,binstatic.com,台湾自动场景
-DOMAIN-SUFFIX,bnbstatic.com,台湾自动场景
-DOMAIN-SUFFIX,bntrace.com,台湾自动场景
-DOMAIN-SUFFIX,bnbchain.org,台湾自动场景
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.net
+DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,nbstream.binance.com
+DOMAIN-SUFFIX,binstatic.com
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bnbchain.org
 
 # App 行为统计和启动跟踪
-DOMAIN-SUFFIX,appsflyersdk.com,台湾自动场景
-DOMAIN-SUFFIX,adjust.com,台湾自动场景
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,adjust.com
 
 # Google 日志服务，用于 Firebase 和分析
-#DOMAIN-SUFFIX,googleapis.com,台湾自动场景
-#DOMAIN-SUFFIX,gstatic.com,台湾自动场景
-#DOMAIN-SUFFIX,firebaseio.com,台湾自动场景
+#DOMAIN-SUFFIX,googleapis.com
+#DOMAIN-SUFFIX,gstatic.com
+#DOMAIN-SUFFIX,firebaseio.com
