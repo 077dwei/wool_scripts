@@ -9,7 +9,6 @@ DOMAIN,api.onesignal.com
 DOMAIN,cloudauth-device.ap-southeast-1.aliyuncs.com
 DOMAIN,ipyp0a-inapps.appsflyersdk.com
 DOMAIN-KEYWORD,wsdexpri.okx.com
-DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN,oslogs.umeng.com
 DOMAIN,www.mokexweb.us
