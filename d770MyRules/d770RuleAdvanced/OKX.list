@@ -14,3 +14,6 @@ DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN,oslogs.umeng.com
 DOMAIN,www.mokexweb.us
 DOMAIN-KEYWORD,online-metrix.net
+
+DOMAIN-SUFFIX,cloudflare-dns.com,Crypto // Added for: cloudflare-dns.com:443
+DOMAIN-SUFFIX,cloudfront.net,Crypto // Added for: d1w1p0smpsoh5j.cloudfront.net:443
