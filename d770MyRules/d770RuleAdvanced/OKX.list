@@ -17,3 +17,4 @@ DOMAIN-KEYWORD,online-metrix.net
 DOMAIN-SUFFIX,cloudflare-dns.com // Added for: cloudflare-dns.com:443
 DOMAIN-SUFFIX,cloudfront.net // Added for: d1w1p0smpsoh5j.cloudfront.net:443
 DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,walletconnect.com
