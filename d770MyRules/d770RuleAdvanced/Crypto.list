@@ -1,5 +1,7 @@
   # > hyperliquid
    DOMAIN-SUFFIX,hyperliquid.xyz
+   DOMAIN-SUFFIX,hyperunit.xyz
+	 DOMAIN-SUFFIX,hyperliquid.statuspage.io
 
   # > Forum
    DOMAIN-SUFFIX,bitcointalk.org
