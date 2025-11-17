@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,walletconnect.com
 DOMAIN,app-analytics-services.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,auth.privy.io
+
 
 
   # > hyperliquid
