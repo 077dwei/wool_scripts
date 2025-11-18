@@ -1,4 +1,4 @@
-# > bocHKRule
-DOMAIN-KEYWORD,bochk.com,DIRECT
-DOMAIN-KEYWORD,alipay.com,DIRECT
-DOMAIN-SUFFIX,hsbc.com.hk,DIRECT
+# > bocHKAllRule
+DOMAIN-KEYWORD,bochk.com
+DOMAIN-KEYWORD,alipay.com
+DOMAIN-SUFFIX,hsbc.com.hk
