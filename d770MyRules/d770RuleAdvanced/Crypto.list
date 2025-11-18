@@ -8,6 +8,9 @@ DOMAIN,app-analytics-services.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,auth.privy.io
 
+# > yuan
+DOMAIN-SUFFIX,decentraland
+
 
 
   # > hyperliquid
